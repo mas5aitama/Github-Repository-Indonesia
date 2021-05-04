@@ -1,0 +1,2 @@
+## Perintah merge digunakan untuk menggabungkan sebuah branch ke branch aktif.
+-- git merge <nama-branch>

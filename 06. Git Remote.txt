@@ -1,0 +1,9 @@
+## Perintah git remote akan membuat user terhubung ke remote repository. 
+Perintah berikut ini akan menampilkan repository yang sedang dikonfigurasi.
+
+-- git rmote -v
+
+## Perintah ini membuat user bisa menghubungkan repository lokal ke remote server:
+
+-- git remote add origin <93.188.160.58>
+

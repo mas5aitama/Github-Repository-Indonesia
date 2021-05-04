@@ -1,0 +1,14 @@
+## git push adalah perintah git dasar lainnya. Push akan mengirimkan 
+perubahan ke master branch dari remote repository yang berhubungan 
+dengan direktori kerja Anda.
+
+
+## Saat ini perubahan telah tersimpan di HEAD 
+salinan kerja lokal kamu. Untuk mengirimkannya ke repositori jarak-jauh, lakukan
+-- git push origin master
+* Ubah master sesuai cabang yang kamu inginkan.
+
+## Jika repositori yang ada belum dikloning
+dan ingin dihubungkan ke server jarak-jauh, kamu perlu menambahkan
+-- git remote add origin <server>
+*Sekarang kamu bisa mengirimkan perubahan ke server jarak-jauh yang dituju

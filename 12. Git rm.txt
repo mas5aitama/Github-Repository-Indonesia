@@ -1,0 +1,2 @@
+## Gunakan perintah ini untuk menghapus file dari index dan direktori kerja.
+-- git rm filename.txt

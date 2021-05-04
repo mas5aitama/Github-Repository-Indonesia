@@ -1,0 +1,3 @@
+## Dengan perintah git instaweb, web server bisa dijalan berdampingan dengan repository lokal. 
+Nantinya web browser akan langsung diarahkan ke server tersebut.
+-- git instaweb –httpd=webrick

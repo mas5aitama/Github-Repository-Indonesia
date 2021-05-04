@@ -1,0 +1,8 @@
+## Perintah git diff digunakan untuk menampilkan conflicts. Untuk melihat conflicts dengan file dasar
+-- git diff --base <nama-file>
+
+## Perintah berikut digunakan untuk menampilkan conflicts diantara branch yang akan di-merge:
+-- git diff <source-branch> <target-branch>
+
+## Untuk menampilkan semau conflict yang ada
+-- git diff

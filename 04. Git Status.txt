@@ -1,0 +1,3 @@
+## Perintah git status menampilkan daftar file yang berubah bersama dengan file yang ingin 
+di tambahkan atau di-commit.
+-- git status

@@ -1,0 +1,2 @@
+## Perintah ini digunakan untuk menerapkan ulang commit di branch yang lain. Contohnya:
+-- git rebase master

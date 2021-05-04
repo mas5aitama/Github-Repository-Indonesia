@@ -1,0 +1,9 @@
+Perintah git commit (melakukan) digunakan untuk melakukan commit pada perubahan ke head. 
+Ingat bahwa perubahan apapun yang di-commit tidak akan langsung ke remote repository
+
+### bisa melakukan perubahan (penambahan ke Indeks) menggunakan
+- git add .
+- git add *
+
+### Ini merupakan langkah awal alur-kerja dasar git. Untuk komit sepenuhnya gunakan
+- git commit -m "Pesan komit"

@@ -1,0 +1,3 @@
+## Untuk mengoptimasi repository melalui garbage collection, 
+yang akan membersihkan file yang tidak dibutuhkan dan mengoptimasinya, gunakan:
+-- git gc

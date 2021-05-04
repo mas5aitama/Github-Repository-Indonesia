@@ -1,0 +1,3 @@
+## Perintah ini digunakan untuk menampilkan semua object dari remote repository 
+yang tidak berada di direktori kerja lokal.
+-- git fetch origin 

@@ -1,0 +1,2 @@
+## gitk adalah tampilan grafis dari repository lokal yang bisa dipanggil dengan menjalankan perintah:
+-- gitk

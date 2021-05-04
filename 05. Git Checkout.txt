@@ -1,0 +1,33 @@
+## Perintah git checkout bisa digunakan untuk membuat branch atau untuk berpindah diantaranya.
+A. buat cabang baru dengan nama "fitur_x" dan beralih kedalamnya menggunakan.
+
+	-- git checkout -b fitur_x
+
+B. beralih kembali ke master
+
+	-- git checkout master
+
+C. dan hapus cabang yang tadi dibuat
+
+	-- git branch -d fitur_x
+
+D. suatu cabang tidak terbuka untuk yang lainnya kecuali 
+jika kamu mengirimkannya ke repositori jarak-jauh.
+
+	-- git push origin <cabang>
+
+
+## Mengembalikan Perubahan Lokal
+E. Seandainya kamu melakukan kesalahan (yang tentunya tak pernah terjadi ;) 
+kamu bisa mengembalikannya menggunakan perintah
+
+	-- git checkout -- <namaberkas>
+
+perintah di atas mengembalikan perubahan di dalam pokok kerja kamu 
+dengan konten terakhir dari HEAD. Perubahan dan berkas baru yang telah 
+ditambahkan ke indeks akan tetap tersimpan.
+
+F. Jika kamu ingin menggugurkan perubahan dan komit lokal seutuhnya, 
+ambil riwayat terakhir dari server dan arahkan ke cabang master lokal seperti ini
+	-- git fetch origin
+	-- git reset --hard origin/master

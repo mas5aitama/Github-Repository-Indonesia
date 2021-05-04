@@ -1,0 +1,3 @@
+## Untuk menampilkan susunan object berdasarkan nama dan mode setiap item, dan nilai blob SHA-1, 
+gunakan perintah git ls-tree.
+-- git ls-tree HEAD

@@ -1,0 +1,2 @@
+## Untuk menggabungkan semua perubahan yang ada di remote repository ke direktori lokal
+-- git pull

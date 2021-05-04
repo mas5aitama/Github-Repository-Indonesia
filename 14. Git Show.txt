@@ -1,0 +1,2 @@
+## Untuk menampilkan informasi tentang object pada git, gunakan git show:
+-- git show

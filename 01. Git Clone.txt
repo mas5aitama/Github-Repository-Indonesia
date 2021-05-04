@@ -1,0 +1,2 @@
+## Perintah git clone digunakan untuk checkout(periksa) repositori
+-- git clone "Https Vesrsion" / "SSH Version"

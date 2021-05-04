@@ -1,0 +1,3 @@
+## git prep mengizinkan pengguna mencari frase dan/atau kata yang berada di dalam direktori.
+Contohnya, untuk mencari www.hostinger.co.id di dalam semua file, gunakan:
+-- git grep "www.hostinger.co.id"

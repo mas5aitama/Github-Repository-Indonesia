@@ -1,0 +1,2 @@
+## Tagging digunakan untuk menandai commits tertentu.
+-- git tag 1.1.0 <insert-commitID-here>

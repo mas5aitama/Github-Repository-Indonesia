@@ -1,0 +1,2 @@
+## Melalui perintah git prune, object yang tidak memiliki incoming pointers akan dihapus. Gunakan:
+-- git prune

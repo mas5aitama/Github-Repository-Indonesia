@@ -1,0 +1,21 @@
+## Dengan menjalankan peritah ini akan menampilkan daftar commits yang ada di branch beserta detail-nya.
+
+-- dalam bentuknya yang paling sederhana, kamu bisa mempelajari riwayat repositori menggunakan.. 
+	- git log
+
+-- kamu bisa menambahkan banyak parameter untuk menampilkan log sesuai keinginan. 
+Untuk melihat komit penulis tertentu:
+	- git log --author=bob
+
+-- Untuk melihat log yang dimampatkan, satu baris per komit:
+	- git log --pretty=oneline
+
+-- Atau mungkin kamu ingin melihat pohon ASCII art seluruh percabangan disertai nama 
+dan penandanya:
+	- git log --graph --oneline --decorate --all
+
+-- Sekedar melihat berkas yang berubah:
+	- git log --name-status
+
+-- ni baru sedikit saja dari sekian banyak parameter yang bisa kamu gunakan. 
+	- git log --help

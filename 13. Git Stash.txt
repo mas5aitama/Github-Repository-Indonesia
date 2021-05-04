@@ -1,0 +1,3 @@
+## Mungkin inilah salah satu perintah dasar git yang jarang digunakan orang, 
+yang bisa membantu menyimpan perubahan yang tidak langsung di-commit, namun hanya sementara.
+-- git stash

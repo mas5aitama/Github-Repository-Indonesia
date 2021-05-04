@@ -1,0 +1,3 @@
+## Perintah git archive memungkinkan user membuat 
+file zip atau tar yang mengandung susunan repository. Contohnya:
+-- git archive --format=tar master
