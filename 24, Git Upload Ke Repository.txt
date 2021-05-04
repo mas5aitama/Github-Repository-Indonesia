@@ -1,4 +1,5 @@
 - git clone https / ssh 
+- git init
 - git add 24\,\ Git\ Upload\ Ke\ Repository.txt
 - git pull --rebase
 - git pull
