@@ -1,6 +1,7 @@
 - git clone https / ssh 
 - git init
 - git add 24\,\ Git\ Upload\ Ke\ Repository.txt
+- git commit -m "first commit"
 - git pull --rebase
 - git pull
 - git pull origin main
